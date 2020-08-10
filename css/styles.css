@@ -1,0 +1,131 @@
+.fondopanel{
+    background-image: url(../img/fondopanel.jpg);
+}
+
+body {
+    color: white !important;
+}
+.desc{
+    font-size: 20px;
+}
+.navidad{
+    font-size: 20px;
+    padding-left: 120px;
+}
+h1,
+h2 {
+    font-family: 'Rancho';
+    font-size: 120px;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 3.5px solid #ffc107;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body,
+h1 {
+    margin: 0;
+}
+
+.foto {
+    padding: 40px 0;
+    background: url('../img/footer.png') center;
+    background-color: forestgreen;
+}
+
+body {
+    background: url("../img/fondo.jpg") no-repeat center center;
+
+    background-size: cover;
+    background-position: center;
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-blend-mode: luminosity;
+     !important;
+    font-family: 'Manjari', sans-serif;
+     !important;
+    
+}
+
+header {
+    background-image: url(../img/header.jpg);
+    background-size: auto;
+    background-position: center;
+    border-bottom: 5px solid #ffca0a !important;
+   
+}
+
+.registro {
+    background-image: url(../img/registro.jpg);
+    background-blend-mode: luminosity;
+    border: 5px;
+    border-style: inherit;
+    border-color: orange;
+    font-family: 'Lacquer', sans-serif;
+     !important;
+}
+
+.nav2 {
+    color: white;
+
+}
+
+.barra {
+    border: 5px solid #ffca0a !important;
+
+}
+
+.peligro {
+    color: darkred;
+}
+
+#acerca {
+    font-size: 19px;
+}
+
+header {
+
+    height: calc(90vh - 60px);
+    background-position: 25px 6px;
+    /*padre fexible*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 50px;
+}
+
+nav {
+    font-family: 'Lacquer', sans-serif;
+     !important;
+}
+
+h3 {
+    font-family: 'Lacquer', sans-serif;
+     !important;
+}
+
+nav {
+    border-bottom: 5px solid #ffca0a !important;
+    background-color: dodgerblue !important;
+
+}
+.registro1{
+    font-size: 35px!important;
+    
+}
+.registro2{
+    font-size: 65px!important;
+    
+}
+.fond{
+    background-image: url(../img/fon.jpg);
+}
